@@ -6,4 +6,5 @@ def meal_choice("meat")
 end
   
   def should allow you to set a meal("vegan")
-    
+    should allow you to set a meal
+  end
