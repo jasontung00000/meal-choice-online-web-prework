@@ -5,4 +5,4 @@ def meal_choice("meat")
   meal_choice
 end
   
-  def should allow 
+  def should allow you to set a meal 
